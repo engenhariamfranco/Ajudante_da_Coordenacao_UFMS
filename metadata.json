@@ -1,0 +1,6 @@
+{
+  "name": "Ajudante da Coordenação UFMS",
+  "description": "An intelligent assistant to help prospective Production Engineering students at UFMS analyze their academic transcripts for credit transfer. This tool provides an estimated compatibility analysis based on the course curriculum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
